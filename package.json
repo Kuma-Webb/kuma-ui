@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "kuma-ui",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "shin",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.75.0",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.9"
+  },
+  "dependencies": {
+    "element-plus": "^2.7.1",
+    "vue": "^3.4.23"
+  }
+}
